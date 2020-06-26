@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://lakshita:123456!@cluster0-wdbah.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
